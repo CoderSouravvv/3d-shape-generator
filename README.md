@@ -4,7 +4,6 @@ live demo : https://genesis3.netlify.app/
 
 License: MIT React Three.js Framer Motion
 
-Live Demo • Report Bug • Request Feature
 
 🌟 Overview Genesis is a modern, interactive 3D shape generator that lets you create, customize, and export beautiful geometric models directly in your browser. Built with cutting-edge web technologies, it combines stunning visuals with powerful functionality.
 ✨ Key Highlights 🎨 9 Geometric Shapes - From basic cubes to complex icosahedrons 🌈 Real-time Customization - Adjust colors, materials, and properties 💾 Multiple Export Formats - GLB, GLTF, and OBJ support 🎭 Premium Dark UI - Glassmorphic design with smooth animations ⚡ High Performance - 60 FPS rendering with optimized graphics 📸 Screenshot Capture - Save high-quality PNG images 🎮 Interactive Controls - Intuitive drag, rotate, and zoom 🖼️ Screenshots
