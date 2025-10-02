@@ -1,7 +1,6 @@
 ✨ Genesis - 3D Shape Generator Studio
 
-Genesis Banner
-Create stunning 3D geometries with an elegant dark interface
+live demo : https://genesis3.netlify.app/
 
 License: MIT React Three.js Framer Motion
 
