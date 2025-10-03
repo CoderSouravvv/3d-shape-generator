@@ -1,7 +1,7 @@
 # Genesis
 - 3D Shape Generator
 A modern, interactive 3D shape generator built with React, Three.js, and Framer Motion. Create, customize, and export stunning geometric models directly in your browser.
-live preview : https://genesis3.netlify.app/
+ live preview : https://genesis3.netlify.app/
 
 ✨ Features
 9 Geometric Shapes - Cube, Sphere, Cone, Cylinder, Torus, Torus Knot, Octahedron, Dodecahedron, Icosahedron
