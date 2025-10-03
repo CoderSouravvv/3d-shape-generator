@@ -24,14 +24,14 @@ npm install
 # Start development server
 npm run dev
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 React - UI framework
 Three.js - 3D graphics
 React Three Fiber - React renderer for Three.js
 Framer Motion - Animations
 Vite - Build tool
 
-📦 Build
+# 📦 Build
 Bash
 
 # Create production build
