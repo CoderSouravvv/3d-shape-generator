@@ -1,4 +1,5 @@
-Genesis - 3D Shape Generator
+# Genesis
+- 3D Shape Generator
 A modern, interactive 3D shape generator built with React, Three.js, and Framer Motion. Create, customize, and export stunning geometric models directly in your browser.
 
 ✨ Features
@@ -22,12 +23,14 @@ npm install
 
 # Start development server
 npm run dev
+
 🛠️ Tech Stack
 React - UI framework
 Three.js - 3D graphics
 React Three Fiber - React renderer for Three.js
 Framer Motion - Animations
 Vite - Build tool
+
 📦 Build
 Bash
 
@@ -36,14 +39,9 @@ npm run build
 
 # Preview production build
 npm run preview
-💾 Export Options
-Format	Use Case
-GLB	Web, Unity, Unreal Engine
-GLTF	Three.js applications
-OBJ	Blender, Maya, 3D printing
-PNG	Screenshots
+
 📝 License
-MIT License - feel free to use this project for personal or commercial purposes.
+    MIT License - feel free to use this project for personal or commercial purposes.
 
 👤 Author
 Sourav
