@@ -11,7 +11,7 @@ Screenshot Capture - Save high-quality PNG images
 Interactive Controls - Drag to rotate, scroll to zoom
 Premium Dark UI - Glassmorphic design with smooth animations
 🚀 Quick Start
-- Bash
+## Bash
 
 # Clone the repository
 git clone https://github.com/CoderSouravvv/3d-shape-generator.git
