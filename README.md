@@ -40,8 +40,8 @@ npm run build
 # Preview production build
 npm run preview
 
-📝 License
-    MIT License - feel free to use this project for personal or commercial purposes.
+# 📝 License
+ MIT License - feel free to use this project for personal or commercial purposes.
 
 👤 Author
 Sourav
