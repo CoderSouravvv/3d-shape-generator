@@ -44,8 +44,8 @@ npm run preview
 # 📝 License
  MIT License - feel free to use this project for personal or commercial purposes.
 
-#👤 Author
-####Sourav
+# 👤 Author
+  ##Sourav
 
 GitHub: @CoderSouravvv
 email: souravroymoyna05@gmail.com
